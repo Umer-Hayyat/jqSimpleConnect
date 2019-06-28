@@ -26,8 +26,5 @@
   "bugs": {
     "url": "https://github.com/jfmdev/jqsimpleconnect/issues"
   },
-  "homepage": "https://github.com/jfmdev/jqsimpleconnect",
-  "dependencies": {
-    "jquery": "^3.4.1"
-  }
+  "homepage": "https://github.com/jfmdev/jqsimpleconnect"
 }
